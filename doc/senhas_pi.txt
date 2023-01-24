@@ -1,0 +1,10 @@
+//email do site hospedeiro
+projetointegradoriesb2017@gmail.com	
+pi2017iesb
+
+//banco de dados
+nome: id1671849_pi
+usr: id1671849_pi2017
+senha: pi2017
+
+
